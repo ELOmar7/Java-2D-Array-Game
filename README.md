@@ -44,4 +44,3 @@ Damit du das Spiel auf deinem Rechner ausführen kannst, brauchst du:
 
 4. Folge den Anweisungen im Konsolenfenster, um zu spielen 😎👍.
 
----
